@@ -1,0 +1,37 @@
+ul{
+    text-decoration: none;
+    font-style: bold;
+    background-color: darkgray;
+    display: flex;
+    text-align: center;
+    padding: 15px;
+}
+a:hover{
+    background-color: grey;
+    
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    
+}
+li{
+    padding: 10px;
+    text-decoration: none;
+    list-style: none;
+    
+}
+.kkk{
+    color: darkgray;
+    background-image: url(nnn.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+        
+    
+}
+button{
+    opacity: 50%;
+}
